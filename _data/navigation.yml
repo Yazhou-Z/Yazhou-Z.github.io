@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Conferences Presentations"
+  - title: "Conferences"
     url: /conference/
 
   # - title: "Conferences Presentations"
@@ -12,8 +12,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Leadership and Altruism"
-    url: /altruism/
+  # - title: "Leadership and Altruism"
+  #   url: /altruism/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
