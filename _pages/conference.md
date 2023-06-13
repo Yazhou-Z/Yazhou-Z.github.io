@@ -10,5 +10,5 @@ author_profile: true
 {% include base_path %}
 
 
-## Poster Presentations
+## Poster Presentation
 **Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network**, IEEE EMBC 2023, Syndey, Australia, 2023.
