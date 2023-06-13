@@ -1,22 +1,28 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Conferences Presentations"
+    url: /conference/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Conferences Presentations"
+  # url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Leadership and Altruism"
+    url: /altruism/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Fun"
+    url: /fun/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
