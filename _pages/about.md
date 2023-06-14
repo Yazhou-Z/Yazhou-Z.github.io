@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 
 ---
-I am a junior student majoring in BME and CS at the University of Hong Kong. In 2023, I am visiting at UC Berkeley. I am working on manifold learning at the [Redwood Theoretical Neuroscience Center](https://redwood.berkeley.edu/). (How to pronounce “Yazhou”(雅洲): like “Ya-Joe”)
+I am a junior student majoring in BME and CS at the University of Hong Kong. In 2023, I am a visiting student at UC Berkeley. I am working on manifold learning at the [Redwood Theoretical Neuroscience Center](https://redwood.berkeley.edu/). (How to pronounce “Yazhou”(雅洲): like “Ya-Joe”)
 
-I am deeply passionate about understanding how the brain works. My research interests include recognition and attention in visual system, neural manifold learning, face recognition (*Fun fact: Yazhou has face agnosia LOL*😆), and neuromodulation. 
+I am deeply passionate about understanding how the brain works. My research interests include recognition and attention in visual system, neural manifold learning, face recognition (*Fun fact: Yazhou has face agnosia* 😆), and neuromodulation.
 
 If you are a potential collaborator with similar interests, feel free to email me at *<a href="mailto:yazhou@berkeley.edu">yazhou@berkeley.edu</a>*. I am open to discussing my current projects or exploring potential cooperation.
 
