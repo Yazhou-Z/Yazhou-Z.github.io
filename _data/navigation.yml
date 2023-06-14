@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: "https://connecthkuhk-my.sharepoint.com/:b:/g/personal/nebula_connect_hku_hk/EcOAvaxs05pLinaXhDdjRVUBCz739LBk4ugCoskwJZfB1A?e=2AcrjU"
+  # - title: "CV"
+    # url: "https://connecthkuhk-my.sharepoint.com/:b:/g/personal/nebula_connect_hku_hk/EcOAvaxs05pLinaXhDdjRVUBCz739LBk4ugCoskwJZfB1A?e=2AcrjU"
 
   - title: "Fun"
     url: /fun/
