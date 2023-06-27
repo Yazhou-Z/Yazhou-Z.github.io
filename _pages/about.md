@@ -22,7 +22,7 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 I worked on **face recognition and EEG decoding** at the HKU ABC lab under the supervision of Prof. Janet Hsiao, **seizure detection** collaborating with Dr. Guoyang Liu, **contrastive learning** for ADHD identification at the University of Alberta under the supervision of Dr. Xinyu Li, **biosensor and neuromorphic computing** at HKU WISE lab under the supervision of Dr. Shiming Zhang, **MRI analysis for neuromodulation** outcome prediction at SZU Medical AI lab under the supervision of Prof. Bingsheng Huang.
 
 ## Poster Presentation
-Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network, IEEE EMBC 2023, Syndey, Australia, 2023.
+Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network, IEEE EMBC 2023, Sydney, Australia, 2023.
 
 ## More
 For freshmen and sophomores interested in neural-related research, please don't hesitate to reach out. I am excited to meet new people from diverse backgrounds, share my experiences, and potentially start a mentorship.
