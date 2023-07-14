@@ -9,9 +9,11 @@ author_profile: true
 
 {% include base_path %}
 
-- Yazhou is a founder of a neural technology start-up in Hong Kong.
+- Yazhou is the founder of a neural technology start-up in Hong Kong.
+  - Focus on wearable real-time closed-loop seizure detection and treatment.
+  - Funded by [Hong Kong Science and Technology Park](https://en.wikipedia.org/wiki/Hong_Kong_Science_and_Technology_Parks_Corporation).
 - Yazhou likes treating her friends to Chinese food at home.
-- Yazhou grew up in a place similar to [Peach Blossom Spring](https://en.wikipedia.org/wiki/The_Peach_Blossom_Spring) (桃花源).
+- Yazhou grew up in forest, a place similar to [Peach Blossom Spring](https://en.wikipedia.org/wiki/The_Peach_Blossom_Spring) (桃花源).
 
 ### Yazhou's non-academic short-term goal
 - Finish 2023 San Francisco 1st half Marathon.
@@ -25,3 +27,4 @@ author_profile: true
 - Cello.
 - Traveling.
 - Feeding her curiosity.
+- Fluffy animals.
