@@ -19,18 +19,18 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 
 ## Previous Projects
 
-- Face recognition and EEG decoding, Prof. Janet Hsiao;
-- Seizure detection, Dr. Guoyang Liu;
-- 📍 Dept. of Psyc., University of Hong Kong, Hong Kong.
+Face recognition and EEG decoding, Prof. Janet Hsiao; \\
+Seizure detection, Dr. Guoyang Liu; \\
+📍 Dept. of Psyc., University of Hong Kong, Hong Kong.
 
-- Contrastive learning for ADHD identification, Dr. Xinyu Li, 
-- 📍 Dept. of ECE, University of Alberta, Canada.
+Contrastive learning for ADHD identification, Dr. Xinyu Li, \\
+📍 Dept. of ECE, University of Alberta, Canada.
 
-- Biosensor and neuromorphic computing, Dr. Shiming Zhang,
-- 📍 Dept. of EEE & BME., University of Hong Kong, Hong Kong.
+Biosensor and neuromorphic computing, Dr. Shiming Zhang, \\
+📍 Dept. of EEE & BME., University of Hong Kong, Hong Kong.
 
-- MRI analysis for neuromodulation outcome prediction, Prof. Bingsheng Huang,
-- 📍 Dept. of BME, Shenzhen University, China.
+MRI analysis for neuromodulation outcome prediction, Prof. Bingsheng Huang, \\
+📍 Dept. of BME, Shenzhen University, China.
 
 ## Conference Presentation
 Oral presentation, Comparison of time-frequency representations for deep learning-based epileptic EEG classification, SfN 2023, Washington DC, USA, 2023.
