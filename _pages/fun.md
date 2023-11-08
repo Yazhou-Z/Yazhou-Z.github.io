@@ -15,8 +15,8 @@ author_profile: true
 - Yazhou likes treating her friends to Chinese food at home.
 - Yazhou grew up in forest, a place similar to [Peach Blossom Spring](https://en.wikipedia.org/wiki/The_Peach_Blossom_Spring) (桃花源).
 
-### Yazhou's non-academic short-term goal
-- Finish 2023 San Francisco 1st half Marathon.
+### Yazhou's non-academic 2023 goal
+- Finish 2023 San Francisco 1st half Marathon. [Done:)]
 
 ### Yazhou's long-term goal
 - Do work with worldwide social impact. (In Chinese: 为万世开太平)
