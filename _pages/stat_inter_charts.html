@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Attraction Statistics Dashboard</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.css">
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  .dashboard-container {
+    margin: 20px;
+  }
+  .chart-container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  .header {
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .attraction {
+    padding: 10px 20px;
+    margin: 5px;
+    background: #eee;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid transparent;
+  }
+  .attraction.selected {
+    border-color: #007bff;
+    background: #007bff;
+    color: white;
+  }
+  canvas {
+    max-width: 100%;
+  }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="attraction selected">Merry-Go-Round</div>
+  <div class="attraction">Roller Coaster</div>
+  <div class="attraction">Riverboat</div>
+  <div class="attraction">Theater</div>
+</div>
+<div class="dashboard-container">
+  <div class="chart-container">
+    <h2>March 20, 2024</h2>
+    <h2>Total Visits: 10,276</h2>
+    <canvas id="totalVisitsChart"></canvas>
+  </div>
+
+  <div class="chart-container">
+    <h2>Distribution of Number of Repeat Guest Visits</h2>
+    <canvas id="repeatVisitsChart"></canvas>
+  </div>
+
+  <div class="chart-container">
+    <h2>Distribution of Visits by Hour of Day</h2>
+    <canvas id="visitsByHourChart"></canvas>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // Example data - replace this with your actual data
+  const totalVisitsData = {
+    labels: [...Array(14).keys()].map(i => `${9 + i}:00`), // Example labels
+    datasets: [{
+      label: 'Total Visits',
+      data: [...Array(14)].map(() => Math.floor(Math.random() * 1000)), // Random data
+      backgroundColor: 'rgba(54, 162, 235, 0.5)',
+      borderColor: 'rgba(54, 162, 235, 1)',
+      borderWidth: 1
+    }]
+  };
+
+  const repeatVisitsData = {
+    labels: ['1st Visit', '2-5 Visits', '6-10 Visits', '11+ Visits'],
+    datasets: [{
+      label: 'Repeat Visits',
+      data: [250, 150, 50, 30], // Example data
+      backgroundColor: ['rgba(255, 99, 132, 0.5)', 'rgba(54, 162, 235, 0.5)', 'rgba(255, 206, 86, 0.5)', 'rgba(75, 192, 192, 0.5)'],
+      borderColor: ['rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)', 'rgba(75, 192, 192, 1)'],
+      borderWidth: 1
+    }]
+  };
+
+  // Initialize Total Visits Chart
+  const totalVisitsChart = new Chart(
+    document.getElementById('totalVisitsChart'),
+    {
+      type: 'bar',
+      data: totalVisitsData,
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    }
+  );
+
+  // Initialize Repeat Visits Chart
+  const repeatVisitsChart = new Chart(
+    document.getElementById('repeatVisitsChart'),
+    {
+      type: 'pie',
+      data: repeatVisitsData,
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: 'top',
+          },
+          // title: {
+          //   display: true,
+          //   text: 'Repeat Visits Distribution'
+          // }
+        }
+      }
+    }
+  );
+
+  // Placeholder data for Visits by Hour - replace with actual data
+  const visitsByHourData = {
+    labels: [...Array(14).keys()].map(i => `${9 + i}:00`), // 9:00 to 22:00 hours
+    datasets: [{
+      label: 'Visits by Hour',
+      data: [...Array(14)].map(() => Math.floor(Math.random() * 500)), // Random data
+      backgroundColor: 'rgba(255, 159, 64, 0.5)',
+      borderColor: 'rgba(255, 159, 64, 1)',
+      borderWidth: 1
+    }]
+  };
+
+  // Initialize Visits by Hour Chart
+  const visitsByHourChart = new Chart(
+    document.getElementById('visitsByHourChart'),
+    {
+      type: 'line',
+      data: visitsByHourData,
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    }
+  );
+</script>
+</body>
+</html>
+
