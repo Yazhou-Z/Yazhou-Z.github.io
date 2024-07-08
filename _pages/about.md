@@ -28,8 +28,8 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 
 Guoyang Liu, Yueyuan Zheng, Michelle TSANG, **Yazhou Zhao** and Janet Hsiao. “How perceptual strategies modulate neural representation in face recognition?”. NeuroImage. Under review.
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 25%; font-size: 0.8em;">
+
+  <div style="width: 75%; font-size: 0.8em;">
   # News
     Oral presentation, Natural retinal cone distributions emerge from optical and neural limits to vision, VSS 2024, Tampa, USA, 2024.
 
