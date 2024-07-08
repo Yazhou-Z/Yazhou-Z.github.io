@@ -18,7 +18,7 @@ If you are a potential collaborator with similar interests, feel free to email m
 For more information, check out my <a href="https://connecthkuhk-my.sharepoint.com/:b:/g/personal/nebula_connect_hku_hk/ERVtLaaqx59PuhcGoDaqvtIBiy-jF1Om0FUvG4w1FWIpng?e=ddWlj7" target="_blank">CV</a> here.
 
 
-<div style="width: 75%; font-size: 0.8em;">
+<div style="width: 75%; font-size: 1em;">
 <h3>News</h3>
 <ul>  
   <li>Oral presentation at VSS 2024 in Tampa, USA, 2024.</li>
