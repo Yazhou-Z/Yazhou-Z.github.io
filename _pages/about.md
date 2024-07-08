@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 
 ---
-I am a senior student majoring in BME and CS at the University of Hong Kong. In 2023, I spent a year at the [Redwood Theoretical Neuroscience Center](https://redwood.berkeley.edu/) at UC Berkeley. This fall, I will be starting as a PhD student at NYU, focusing on pain-related computational neuroscience. (How to pronounce “Yazhou”(雅洲): like “Ya-Joe”)
+I am a senior student majoring in BME and CS at the University of Hong Kong. In 2023, I spent a year at the [Redwood Theoretical Neuroscience Center](https://redwood.berkeley.edu/) at UC Berkeley. This fall, I will be a PhD student at NYU, focusing on pain-related computational neuroscience. (How to pronounce “Yazhou”(雅洲): like “Ya-Joe”)
 
-I am deeply passionate about understanding how the brain works. My research interests include perception, memory and the mechanism of neural disorders. I am happy to chat about my projects on attention modeling, cone mosaic arrangement, and attractor networks. Previously, I worked on EEG decoding for face recognition and MRI analysis for clinical applications.
+I am deeply passionate about understanding how the brain works. My research interests include perception, memory and the mechanism of neural disorders. I am happy to chat about my ongoing projects on attention modeling, cone mosaic arrangement, and attractor networks. Previously, I worked on EEG decoding for face recognition and MRI analysis for clinical applications.
 
 If you are a potential collaborator with similar interests, feel free to email me at *<a href="mailto: yazhou.laugh@gmail.com">yazhou.laugh@gmail.com</a>*. I am open to discussing my current projects or exploring potential cooperation.
 
@@ -29,15 +29,17 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 Guoyang Liu, Yueyuan Zheng, Michelle TSANG, **Yazhou Zhao** and Janet Hsiao. “How perceptual strategies modulate neural representation in face recognition?”. NeuroImage. Under review.
 
 
-  <div style="width: 75%; font-size: 0.8em;">
-  # News
-    Oral presentation, Natural retinal cone distributions emerge from optical and neural limits to vision, VSS 2024, Tampa, USA, 2024.
+<div style="width: 75%; font-size: 0.8em;">
+<h3>News</h3>
+<ul>  
+  <li>Oral presentation, Natural retinal cone distributions emerge from optical and neural limits to vision, VSS 2024, Tampa, USA, 2024.</li>
 
-    Oral presentation, Comparison of time-frequency representations for deep learning-based epileptic EEG classification, SfN 2023, Washington DC, USA, 2023.
+  <li>Oral presentation, Comparison of time-frequency representations for deep learning-based epileptic EEG classification, SfN 2023, Washington DC, USA, 2023.</li>
 
-    Poster presentation, Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network, IEEE EMBC 2023, Sydney, Australia, 2023.
-  </div>  
-</div> 
+  <li>Poster presentation, Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network, IEEE EMBC 2023, Sydney, Australia, 2023.</li>
+</ul>
+</div>  
+
 
 
 ## More
