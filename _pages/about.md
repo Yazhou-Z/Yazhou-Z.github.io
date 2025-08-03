@@ -2,7 +2,7 @@
 permalink: /
 title: "About Yazhou"
 excerpt: "About me"
-icon: "images/profile.JPG"
+icon: "images/profile.png"
 author_profile: true
 redirect_from: 
   - /about/
