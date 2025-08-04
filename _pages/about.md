@@ -21,6 +21,7 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 <div style="width: 75%; font-size: 1em;">
 <h3>News</h3>
 <ul>  
+  <li>Poster presentation at CogSci 2025, in San Francisco, USA, 2025 Aug.</li>
   <li>Pass qualifying exam, 2025 May.</li>
   <li>Join NYU as a PhD student, 2024 Aug.</li>
   <li>Graduate from University of Hong Kong, 2024 July.</li>
@@ -34,13 +35,15 @@ For more information, check out my <a href="https://connecthkuhk-my.sharepoint.c
 
 ## Publications & Conference Presentations
 
+**Yazhou Zhao**, Zeyu Yun, Bruno A. Olshausen and Christopher J. Kymn. “Sparse coding generates efficient representations for autoassociative memories”. CogSci 2025. Poster presentation.
+
+Guoyang Liu, Yueyuan Zheng, Michelle Hei Lam Tsang, **Yazhou Zhao** and Janet H. Hsiao. “Understanding the role of eye movement pattern and consistency during face recognition through EEG decoding”. Science of Learning.
+
 **Yazhou Zhao**, Zeyu Yun, Ruichang Sun and Dasheng Bi. “Natural retinal cone distributions emerge from optical and neural limits to vision”. The 24th Annual Meeting of Vision Science Society (VSS 2024). Talk presentation.
 
 **Yazhou Zhao** and Guoyang Liu. “Epileptic EEG Classification Using Time-Frequency Representation and Deep Neural Network”. The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2023).
 
 **Yazhou Zhao** and Guoyang Liu. “Comparison of time-frequency representations for deep learning-based epileptic EEG classification”. Nanosymposium presentation. Neuroscience 2023 (SfN 2023).
-
-Guoyang Liu, Yueyuan Zheng, Michelle TSANG, **Yazhou Zhao** and Janet Hsiao. “How perceptual strategies modulate neural representation in face recognition?”. NeuroImage. Under review.
 
 
 
