@@ -18,17 +18,14 @@ If you are a potential collaborator with similar interests, feel free to email m
 For more information, check out my <a href="https://connecthkuhk-my.sharepoint.com/:b:/g/personal/nebula_connect_hku_hk/ERVtLaaqx59PuhcGoDaqvtIBiy-jF1Om0FUvG4w1FWIpng?e=ddWlj7" target="_blank">CV</a> here.
 
 
-<div style="width: 75%; font-size: 1em;">
+<div style="width: 100%; font-size: 0.7em;">
 <h3>News</h3>
 <ul>  
-  <li>Poster presentation at CogSci 2025, in San Francisco, USA, 2025 Aug.</li>
-  <li>Pass qualifying exam, 2025 May.</li>
-  <li>Join NYU as a PhD student, 2024 Aug.</li>
-  <li>Graduate from University of Hong Kong, 2024 July.</li>
-  <li>Oral presentation at VSS 2024 in Tampa, USA, 2024 May.</li>
-  <li>Oral presentation at SfN 2023, in Washington DC, USA, 2023 Nov.</li>
-  <li>Poster presentation at EMBC 2023, in Sydney, Australia, 2023 July.</li>
-  <li>Join Redwood Center for Theoretical Neuroscience, UC Berkeley, USA, 2023 Jan.</li>
+  <li>[2025 Aug] Poster presentation at CogSci 2025, in San Francisco, USA. Thanks to Prof. Christopher Kymn and Prof. Bruno Olshausen!</li>
+  <li>[2025 Jul] Paper published in Science of Learning. Thanks to Dr. Guoyang Liu, Prof. Janet Hsiao and Dr. Yueyuan Zheng!</li>
+  <li>[2025 May] Pass qualifying exam. Thanks to my PhD advisor Prof. Jing Wang and my committee members Prof. Andreas Hielscher and Prof. Yao Wang!</li>
+  <!-- <li>[2024 Aug] Join NYU as a PhD student</li>
+  <li>[2024 Jul] Graduate from University of Hong Kong</li> -->
 </ul> 
 </div>  
 
